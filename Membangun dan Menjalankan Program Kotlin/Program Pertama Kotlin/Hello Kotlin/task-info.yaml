@@ -1,0 +1,16 @@
+type: theory
+custom_name: Hello Kotlin
+files:
+- name: src/App.kt
+  visible: true
+  text: |-
+    fun main() {
+        print("Hello Kotlin!")
+    }
+  learner_created: false
+status: Failed
+feedback:
+  message: Failed to launch checking
+  time: Tue, 20 Jul 2021 11:20:19 UTC
+record: -1
+post_submission_on_open: true
